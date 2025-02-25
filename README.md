@@ -64,7 +64,7 @@
     - 橘黄色：bs=80，梯度累积=4，warmup=True（ratio=0.03），lr=5e-4
     - 青色：bs=80，梯度累积=4，warmup=True（ratio=0.1），lr=5e-4
     - 浅紫色：bs=80，梯度累积=4，warmup=True（ratio=0.1），lr=5e-5
-![image](https://github.com/user-attachments/assets/22a36386-b696-4293-858d-4df8efc37545)
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/07f898ef-d261-4723-9419-cf0bc9c4edb3" />
 
   - 蓝色：bs=80，梯度累积=4
   - 绿色：bs=84，梯度累积=8
